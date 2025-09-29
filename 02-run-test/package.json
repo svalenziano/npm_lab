@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "snv_npm_test": "0.x"
+  },
+  "type": "module"
+}

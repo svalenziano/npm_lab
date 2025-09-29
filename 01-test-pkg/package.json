@@ -1,0 +1,12 @@
+{
+  "name": "snv_npm_test",
+  "version": "0.0.7",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
