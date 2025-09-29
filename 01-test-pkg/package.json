@@ -1,6 +1,6 @@
 {
   "name": "snv_npm_test",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "test.js",
   "scripts": {
     "test": "node test.js"
